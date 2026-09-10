@@ -8,4 +8,4 @@ gamer
  ): Uint8Array { 
    const skillName = opts.name ?? slug; 
     const entries: Record<string, Uint8Array> = { 
-     [`${slug}/SKILL.md`]: strToU8(`---\nname: ${slug}\nversion: 1.0.0\ndescription: mock\n---\nbody`),Understanding GitHub Code Search syntaxninja -vC build doc/html
+     [`${slug}/SKILL.md`]: strToU8(`---\nname: ${slug}\nversion: 1.0.0\ndescription: mock\n---\nbody`),Understanding GitHub Code Search syntaxninja -vC build doc/html 
